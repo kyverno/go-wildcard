@@ -1,3 +1,3 @@
-module github.com/IGLOU-EU/go-wildcard
+module github.com/kyverno/go-wildcard
 
-go 1.16
+go 1.17
